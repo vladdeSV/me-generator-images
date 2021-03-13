@@ -16,6 +16,7 @@ Contains all parts for [me-generator](https://github.com/vladdeSV/me-generator).
 <img src="./exported/underwear 1.svg" width="100" align="left">
 <img src="./exported/underwear 2.svg" width="100" align="left">
 <img src="./exported/beige cargo pants.svg" width="300" align="left">
+<img src="./exported/black cargo pants.svg" width="300" align="left">
 <img src="./exported/ltt crewneck.svg" width="300" align="left">
 <img src="./exported/duality socks.svg" width="300" align="left">
 <img src="./exported/minibrills.svg" width="150" align="left">
