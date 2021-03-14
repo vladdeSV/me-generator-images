@@ -33,7 +33,7 @@ Contains all parts for [me-generator](https://github.com/vladdeSV/me-generator).
     <td><img width="500px" src="./exported/black cargo pants.svg"></td>
     <td><img width="500px" src="./exported/duality socks.svg"></td>
     <td><img width="500px" src="./exported/necklace.svg"></td>
-    <td><img width="500px" src="./exported/master of none.svg"></td>
+    <td colspan="2"><img width="500px" src="./exported/master of none.svg"></td>
   </tr>
 </table>
 
