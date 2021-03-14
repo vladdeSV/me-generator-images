@@ -7,7 +7,7 @@ Contains all parts for [me-generator](https://github.com/vladdeSV/me-generator).
 <img src="./exported/hair roff.svg" width="150" align="left">
 <img src="./exported/head.svg" width="150" align="left">
 <img src="./exported/left arm.svg" width="150" align="left">
-<img src="./exported/left hand.svg" width="150" align="left">
+<img src="./exported/left hand.svg" width="100" align="left">
 <img src="./exported/left leg.svg" width="300" align="left">
 <img src="./exported/right arm.svg" width="150" align="left">
 <img src="./exported/right hand.svg" width="150" align="left">
