@@ -132,7 +132,11 @@
     ],
     [
       "beard bigger",
-      "beard 3mm"
+      "beard 3mm",
+      {
+        "partId": null,
+        "weight": 0.5
+      }
     ],
     [
       "hair roff",
