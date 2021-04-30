@@ -92,6 +92,10 @@
     "80s sweatband": [
       679.8,
       52.5
+    ],
+    "jumpshorts": [
+      343.6,
+      81.3
     ]
   },
   "rules": [
@@ -129,6 +133,7 @@
     [
       "beige cargo pants",
       "black cargo pants",
+      "jumpshorts",
       {
         "partId": null,
         "weight": 0.3
