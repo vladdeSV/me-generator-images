@@ -94,6 +94,13 @@
       52.5
     ]
   },
+  "rules": [
+    [
+      "ltt touke",
+      "disallow",
+      "80s sweatband"
+    ]
+  ],
   "generation": [
     [
       {
@@ -146,6 +153,13 @@
       "hair roff",
       "hair 1cm",
       "ltt touke"
+    ],
+    [
+      {
+        "partId": "80s sweatband",
+        "weight": 0.1
+      },
+      null
     ],
     [
       {
