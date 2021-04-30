@@ -109,7 +109,7 @@
     [
       {
         "partId": null,
-        "weight": 10
+        "weight": 50
       },
       "master of none"
     ],
@@ -120,9 +120,6 @@
       "underwear 1",
       "underwear 2"
     ],
-    "left arm",
-    "right arm",
-    "head",
     [
       "duality socks",
       {
@@ -139,11 +136,14 @@
         "weight": 0.3
       }
     ],
+    "left arm",
+    "right arm",
+    "head",
     [
       "ltt crewneck",
       {
         "partId": null,
-        "weight": 0.1
+        "weight": 0.2
       }
     ],
     [
