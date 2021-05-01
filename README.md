@@ -35,6 +35,11 @@ Contains all parts for [me-generator](https://github.com/vladdeSV/me-generator).
     <td><img width="500px" src="./exported/necklace.svg"></td>
     <td colspan="2"><img width="500px" src="./exported/master of none.svg"></td>
   </tr>
+  
+  <tr>
+    <td><img width="500px" src="./exported/jumpshorts.svg"></td>
+    <td><img width="500px" src="./exported/80s sweatband.svg"></td>
+  </tr>
 </table>
 
 ## License
