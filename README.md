@@ -31,8 +31,8 @@ Contains all parts for [me-generator](https://github.com/vladdeSV/me-generator).
   </tr>
   <tr>
     <td><img width="500px" src="./exported/black cargo pants.svg"></td>
-    <td><img width="500px" src="./exported/duality socks.svg"></td>
-    <td><img width="500px" src="./exported/necklace.svg"></td>
+    <td><img width="500px" src="./exported/white left sock.svg"></td>
+    <td><img width="500px" src="./exported/orange right sock.svg"></td>
     <td colspan="2"><img width="500px" src="./exported/master of none.svg"></td>
   </tr>
   
