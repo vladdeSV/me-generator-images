@@ -57,6 +57,10 @@
       46.7,
       186.3
     ],
+    "orange right sock": [
+      280.5,
+      147.3
+    ],
     "beige cargo pants": [
       147.5,
       21.8
@@ -120,6 +124,13 @@
     ],
     "torso",
     "right leg",
+    [
+      "orange right sock",
+      {
+        "partId": null,
+        "weight": 0.3
+      }
+    ],
     "left leg",
     [
       "underwear 1",
