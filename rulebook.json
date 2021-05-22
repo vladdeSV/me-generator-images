@@ -6,7 +6,7 @@
       94.8
     ],
     "right leg": [
-      336.1,
+      281.1,
       26.5
     ],
     "left leg": [
@@ -53,9 +53,13 @@
       539.4,
       205.8
     ],
-    "duality socks": [
+    "white left sock": [
       46.7,
-      146.3
+      186.3
+    ],
+    "orange right sock": [
+      280.5,
+      147.3
     ],
     "beige cargo pants": [
       147.5,
@@ -88,28 +92,52 @@
     "ltt touke": [
       664.1,
       29.7
+    ],
+    "80s sweatband": [
+      679.8,
+      52.5
+    ],
+    "jumpshorts": [
+      343.6,
+      81.3
     ]
   },
+  "blocklist": [
+    [
+      "ltt touke",
+      "disallow",
+      "80s sweatband"
+    ],
+    [
+      "beard 3mm",
+      "disallow",
+      "hair roff"
+    ]
+  ],
   "generation": [
     [
       {
         "partId": null,
-        "weight": 10
+        "weight": 50
       },
       "master of none"
     ],
     "torso",
     "right leg",
+    [
+      "orange right sock",
+      {
+        "partId": null,
+        "weight": 0.3
+      }
+    ],
     "left leg",
     [
       "underwear 1",
       "underwear 2"
     ],
-    "left arm",
-    "right arm",
-    "head",
     [
-      "duality socks",
+      "white left sock",
       {
         "partId": null,
         "weight": 0.4
@@ -118,16 +146,20 @@
     [
       "beige cargo pants",
       "black cargo pants",
+      "jumpshorts",
       {
         "partId": null,
         "weight": 0.3
       }
     ],
+    "left arm",
+    "right arm",
+    "head",
     [
       "ltt crewneck",
       {
         "partId": null,
-        "weight": 0.1
+        "weight": 0.2
       }
     ],
     [
@@ -142,6 +174,13 @@
       "hair roff",
       "hair 1cm",
       "ltt touke"
+    ],
+    [
+      {
+        "partId": "80s sweatband",
+        "weight": 0.1
+      },
+      null
     ],
     [
       {
