@@ -102,7 +102,7 @@
       81.3
     ]
   },
-  "rules": [
+  "blocklist": [
     [
       "ltt touke",
       "disallow",
