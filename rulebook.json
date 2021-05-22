@@ -102,18 +102,6 @@
       81.3
     ]
   },
-  "blocklist": [
-    [
-      "ltt touke",
-      "disallow",
-      "80s sweatband"
-    ],
-    [
-      "beard 3mm",
-      "disallow",
-      "hair roff"
-    ]
-  ],
   "generation": [
     [
       {
@@ -152,9 +140,6 @@
         "weight": 0.3
       }
     ],
-    "left arm",
-    "right arm",
-    "head",
     [
       "ltt crewneck",
       {
@@ -162,6 +147,9 @@
         "weight": 0.2
       }
     ],
+    "left arm",
+    "right arm",
+    "head",
     [
       "beard bigger",
       "beard 3mm",
@@ -191,5 +179,34 @@
     ],
     "right hand",
     "left hand"
+  ],
+  "blocklist": [
+    [
+      "ltt touke",
+      "disallow",
+      "80s sweatband"
+    ],
+    [
+      "beard 3mm",
+      "disallow",
+      "hair roff"
+    ]
+  ],
+  "indexes": [
+    [
+      "ltt crewneck#behind-torso",
+      "under",
+      "torso"
+    ],
+    [
+      "ltt crewneck#front-right-arm",
+      "over",
+      "right arm"
+    ],
+    [
+      "ltt crewneck#front-left-arm",
+      "over",
+      "left arm"
+    ]
   ]
 }
