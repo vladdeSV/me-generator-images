@@ -100,6 +100,10 @@
     "jumpshorts": [
       343.6,
       81.3
+    ],
+    "corporate turtleneck": [
+      464.8,
+      70.6
     ]
   },
   "generation": [
@@ -142,6 +146,7 @@
     ],
     [
       "ltt crewneck",
+      "corporate turtleneck",
       {
         "partId": null,
         "weight": 0.2
@@ -205,6 +210,16 @@
     ],
     [
       "ltt crewneck#front-left-arm",
+      "over",
+      "left arm"
+    ],
+    [
+      "corporate turtleneck#right-arm",
+      "over",
+      "right arm"
+    ],
+    [
+      "corporate turtleneck#left-arm",
       "over",
       "left arm"
     ]
