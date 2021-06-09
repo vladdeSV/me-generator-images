@@ -53,13 +53,9 @@
       539.4,
       205.8
     ],
-    "white left sock": [
+    "duality socks": [
       46.7,
-      186.3
-    ],
-    "orange right sock": [
-      280.5,
-      147.3
+      146.3
     ],
     "beige cargo pants": [
       147.5,
@@ -116,20 +112,13 @@
     ],
     "torso",
     "right leg",
-    [
-      "orange right sock",
-      {
-        "partId": null,
-        "weight": 0.3
-      }
-    ],
     "left leg",
     [
       "underwear 1",
       "underwear 2"
     ],
     [
-      "white left sock",
+      "duality socks",
       {
         "partId": null,
         "weight": 0.4
@@ -222,6 +211,11 @@
       "corporate turtleneck#left-arm",
       "over",
       "left arm"
+    ],
+    [
+      "duality socks#orange",
+      "over",
+      "right leg"
     ]
   ]
 }
