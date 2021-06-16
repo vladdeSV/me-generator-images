@@ -135,7 +135,10 @@
     ],
     [
       "ltt crewneck",
-      "corporate turtleneck",
+      {
+        "partId": "corporate turtleneck",
+        "weight": 0.5
+      },
       {
         "partId": null,
         "weight": 0.2
