@@ -100,6 +100,10 @@
     "corporate turtleneck": [
       464.8,
       70.6
+    ],
+    "taken": [
+      724.3,
+      102.5
     ]
   },
   "generation": [
@@ -175,7 +179,8 @@
       null
     ],
     "right hand",
-    "left hand"
+    "left hand",
+    "taken"
   ],
   "blocklist": [
     [
