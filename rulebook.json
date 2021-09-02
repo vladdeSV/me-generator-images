@@ -104,6 +104,10 @@
     "taken": [
       724.3,
       102.5
+    ],
+    "cap northface": [
+      659.4,
+      50.4
     ]
   },
   "generation": [
@@ -162,7 +166,8 @@
     [
       "hair roff",
       "hair 1cm",
-      "ltt touke"
+      "ltt touke",
+      "cap northface"
     ],
     [
       {
@@ -185,6 +190,11 @@
   "blocklist": [
     [
       "ltt touke",
+      "disallow",
+      "80s sweatband"
+    ],
+    [
+      "cap northface",
       "disallow",
       "80s sweatband"
     ],
@@ -224,6 +234,11 @@
       "duality socks#orange",
       "over",
       "right leg"
+    ],
+    [
+      "cap northface#shield-bottom-back",
+      "under",
+      "head"
     ]
   ]
 }
