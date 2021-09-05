@@ -31,12 +31,12 @@ Contains all parts for [me-generator](https://github.com/vladdeSV/me-generator).
     <td colspan="2"><img width="500px" src="./exported/beige cargo pants.svg"></td>
     <td colspan="2"><img width="500px" src="./exported/ltt crewneck.svg"></td>
     <td><img width="500px" src="./exported/minibrills.svg"></td>
-
   </tr>
   <tr>
     <td colspan="2"><img width="500px" src="./exported/duality socks.svg"></td>
     <td><img width="500px" src="./exported/black cargo pants.svg"></td>
     <td><img width="500px" src="./exported/jumpshorts.svg"></td>
+    <td><img width="500px" src="./exported/cap northface.svg"></td>
   </tr>
 </table>
 
