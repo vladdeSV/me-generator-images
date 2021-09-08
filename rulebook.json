@@ -108,6 +108,10 @@
     "cap northface": [
       659.4,
       50.4
+    ],
+    "cap happy ending": [
+      659.4,
+      50.4
     ]
   },
   "generation": [
@@ -167,7 +171,8 @@
       "hair roff",
       "hair 1cm",
       "ltt touke",
-      "cap northface"
+      "cap northface",
+      "cap happy ending"
     ],
     [
       {
@@ -237,6 +242,11 @@
     ],
     [
       "cap northface#shield-bottom-back",
+      "under",
+      "head"
+    ],
+    [
+      "cap happy ending#shield-bottom-back",
       "under",
       "head"
     ]
