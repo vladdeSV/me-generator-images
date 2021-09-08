@@ -207,6 +207,16 @@
       "beard 3mm",
       "disallow",
       "hair roff"
+    ],
+    [
+      "cap northface",
+      "disallow",
+      "80s sweatband"
+    ],
+    [
+      "cap happy ending",
+      "disallow",
+      "80s sweatband"
     ]
   ],
   "indexes": [
